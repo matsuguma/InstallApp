@@ -26,7 +26,7 @@ import java.util.TimerTask;
 public class InstallService extends Service {
 
     // 初回の遅延時間(ms)
-    private long DELAY_TIME = 2000;
+    private long DELAY_TIME = 2001;
 
     // タイマー間隔(ms)
     private long TIMER_INTERVAL = 20000;
